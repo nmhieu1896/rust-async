@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "rust-asyncccc"
+name = "rust-async"
 version = "0.1.0"
